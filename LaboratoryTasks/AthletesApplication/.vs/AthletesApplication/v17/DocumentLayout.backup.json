@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\PrivateLessons IS\\AthletesApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4605A02-8977-4BFC-B42F-48F9A28C8D47}|Athletes.Domain\\Athletes.Domain.csproj|c:\\users\\ivan\\desktop\\privatelessons is\\athletesapplication\\athletes.domain\\models\\domain\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4605A02-8977-4BFC-B42F-48F9A28C8D47}|Athletes.Domain\\Athletes.Domain.csproj|solutionrelative:athletes.domain\\models\\domain\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\PrivateLessons IS\\AthletesApplication\\Athletes.Domain\\Models\\Domain\\Team.cs",
+              "RelativeDocumentMoniker": "Athletes.Domain\\Models\\Domain\\Team.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\PrivateLessons IS\\AthletesApplication\\Athletes.Domain\\Models\\Domain\\Team.cs",
+              "RelativeToolTip": "Athletes.Domain\\Models\\Domain\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:48:26.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

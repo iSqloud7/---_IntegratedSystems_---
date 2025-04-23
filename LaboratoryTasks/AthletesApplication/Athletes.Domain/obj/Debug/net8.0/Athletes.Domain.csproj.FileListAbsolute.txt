@@ -1,0 +1,12 @@
+C:\Users\Ivan\Desktop\PrivateLessons IS\AthletesApplication\Athletes.Domain\bin\Debug\net8.0\Athletes.Domain.deps.json
+C:\Users\Ivan\Desktop\PrivateLessons IS\AthletesApplication\Athletes.Domain\bin\Debug\net8.0\Athletes.Domain.dll
+C:\Users\Ivan\Desktop\PrivateLessons IS\AthletesApplication\Athletes.Domain\bin\Debug\net8.0\Athletes.Domain.pdb
+C:\Users\Ivan\Desktop\PrivateLessons IS\AthletesApplication\Athletes.Domain\obj\Debug\net8.0\Athletes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\PrivateLessons IS\AthletesApplication\Athletes.Domain\obj\Debug\net8.0\Athletes.Domain.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\PrivateLessons IS\AthletesApplication\Athletes.Domain\obj\Debug\net8.0\Athletes.Domain.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\PrivateLessons IS\AthletesApplication\Athletes.Domain\obj\Debug\net8.0\Athletes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\PrivateLessons IS\AthletesApplication\Athletes.Domain\obj\Debug\net8.0\Athletes.Domain.dll
+C:\Users\Ivan\Desktop\PrivateLessons IS\AthletesApplication\Athletes.Domain\obj\Debug\net8.0\refint\Athletes.Domain.dll
+C:\Users\Ivan\Desktop\PrivateLessons IS\AthletesApplication\Athletes.Domain\obj\Debug\net8.0\Athletes.Domain.pdb
+C:\Users\Ivan\Desktop\PrivateLessons IS\AthletesApplication\Athletes.Domain\obj\Debug\net8.0\ref\Athletes.Domain.dll
+C:\Users\Ivan\Desktop\PrivateLessons IS\AthletesApplication\Athletes.Domain\obj\Debug\net8.0\Athletes.Domain.csproj.AssemblyReference.cache

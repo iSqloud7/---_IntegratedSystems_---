@@ -1,0 +1,49 @@
+﻿@model Athletes.Domain.Models.Domain.Participation
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Participation</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DateRegistered)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DateRegistered)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Result)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Result)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Performance)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Performance)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Competition)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Competition.ID)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Athlete)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Athlete.FirstName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
