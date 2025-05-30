@@ -1,0 +1,45 @@
+@@Add
+@model CoursesApplication.Domain.DTO.StudentEnrollmentDTO
+@{
+	ViewData["Title"] = "Create";
+	var semestersSelectList = new SelectList(Model.Semesters, "Id", "Name");
+}
+
+<h1>Create</h1>
+
+<h4>StudentOnCourse</h4>
+<hr />
+<div class="row">
+	<div class="col-md-4">
+		@* Put the form action *@
+		<form asp-action="SubmitCourseEnrollment">
+			@* Fill the drop down list with all the semesters *@
+			<div class="form-group">
+				<label class="control-label">Semester:</label>
+				@* <select asp-items="@ViewBag.Semesters" class="form-control"></select> *@
+				<select asp-items="@semestersSelectList" name="SemesterId" asp-for="SemesterId" class="form-control">
+
+				</select>
+
+			</div>
+
+			@* Put the selected CourseId  *@
+			@* <input type="hidden" name="CourseId" value="@ViewBag.CourseId" /> *@
+			<input type="hidden" name="CourseId" asp-for="CourseId" value="@Model.CourseId" />
+
+			<div class="form-group">
+				<label>Re Enroll</label>
+				<input type="checkbox" name="reEnroll" asp-for="ReEnroll" />
+			</div>
+
+			<div class="form-group">
+				<input type="submit" value="Create" class="btn btn-primary" />
+			</div>
+		</form>
+	</div>
+</div>
+
+<div>
+	<a asp-action="Index">Back to List</a>
+</div>
+
