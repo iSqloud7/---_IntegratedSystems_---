@@ -1,0 +1,17 @@
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Service.deps.json
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Service.dll
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Service.pdb
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.AssemblyInfoInputs.cache
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.AssemblyInfo.cs
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.dll
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\refint\AthletesApplication.Service.dll
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.pdb
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\ref\AthletesApplication.Service.dll
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Domain.dll
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Repository.dll
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Domain.pdb
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Repository.pdb
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.csproj.AssemblyReference.cache
+C:\Users\darso\source\repos\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\Athletes.103A3407.Up2Date

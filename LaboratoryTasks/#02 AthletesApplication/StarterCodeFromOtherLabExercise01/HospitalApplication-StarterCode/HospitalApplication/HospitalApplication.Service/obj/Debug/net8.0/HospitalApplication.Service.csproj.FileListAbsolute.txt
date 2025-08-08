@@ -1,0 +1,17 @@
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\obj\Debug\net8.0\HospitalApplication.Service.csproj.AssemblyReference.cache
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\obj\Debug\net8.0\HospitalApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\obj\Debug\net8.0\HospitalApplication.Service.AssemblyInfoInputs.cache
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\obj\Debug\net8.0\HospitalApplication.Service.AssemblyInfo.cs
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\obj\Debug\net8.0\HospitalApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\bin\Debug\net8.0\HospitalApplication.Service.deps.json
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\bin\Debug\net8.0\HospitalApplication.Service.dll
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\bin\Debug\net8.0\HospitalApplication.Service.pdb
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\bin\Debug\net8.0\HospitalApplication.Domain.dll
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\bin\Debug\net8.0\HospitalApplication.Repository.dll
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\bin\Debug\net8.0\HospitalApplication.Domain.pdb
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\bin\Debug\net8.0\HospitalApplication.Repository.pdb
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\obj\Debug\net8.0\Hospital.A79C3209.Up2Date
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\obj\Debug\net8.0\HospitalApplication.Service.dll
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\obj\Debug\net8.0\refint\HospitalApplication.Service.dll
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\obj\Debug\net8.0\HospitalApplication.Service.pdb
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Service\obj\Debug\net8.0\ref\HospitalApplication.Service.dll

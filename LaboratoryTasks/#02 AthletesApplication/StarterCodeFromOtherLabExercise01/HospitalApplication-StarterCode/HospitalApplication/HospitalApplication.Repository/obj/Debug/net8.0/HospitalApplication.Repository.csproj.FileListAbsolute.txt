@@ -1,0 +1,15 @@
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\obj\Debug\net8.0\HospitalApplication.Repository.csproj.AssemblyReference.cache
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\obj\Debug\net8.0\HospitalApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\obj\Debug\net8.0\HospitalApplication.Repository.AssemblyInfoInputs.cache
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\obj\Debug\net8.0\HospitalApplication.Repository.AssemblyInfo.cs
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\obj\Debug\net8.0\HospitalApplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\bin\Debug\net8.0\HospitalApplication.Repository.deps.json
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\bin\Debug\net8.0\HospitalApplication.Repository.dll
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\bin\Debug\net8.0\HospitalApplication.Repository.pdb
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\bin\Debug\net8.0\HospitalApplication.Domain.dll
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\bin\Debug\net8.0\HospitalApplication.Domain.pdb
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\obj\Debug\net8.0\Hospital.A7CA7D7A.Up2Date
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\obj\Debug\net8.0\HospitalApplication.Repository.dll
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\obj\Debug\net8.0\refint\HospitalApplication.Repository.dll
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\obj\Debug\net8.0\HospitalApplication.Repository.pdb
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Repository\obj\Debug\net8.0\ref\HospitalApplication.Repository.dll

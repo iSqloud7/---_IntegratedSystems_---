@@ -1,0 +1,627 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\controllers\\patientdepartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\controllers\\patientdepartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\views\\patientdepartments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\views\\patientdepartments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\views\\treatments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\views\\treatments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\views\\treatments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\views\\treatments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.domain\\domainmodels\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|solutionrelative:hospitalapplication.domain\\domainmodels\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.web\\controllers\\treatmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\controllers\\treatmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250415215348_Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalApplication.Repository\\Data\\Migrations\\20250415215348_Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|solutionrelative:hospitalapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.repository\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|solutionrelative:hospitalapplication.repository\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.repository\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|solutionrelative:hospitalapplication.repository\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250415215035_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalApplication.Repository\\Data\\Migrations\\20250415215035_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277E7A3-6168-475C-9898-FFEBB548CC76}|HospitalApplication.Service\\HospitalApplication.Service.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.service\\interface\\ipatientdepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277E7A3-6168-475C-9898-FFEBB548CC76}|HospitalApplication.Service\\HospitalApplication.Service.csproj|solutionrelative:hospitalapplication.service\\interface\\ipatientdepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277E7A3-6168-475C-9898-FFEBB548CC76}|HospitalApplication.Service\\HospitalApplication.Service.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.service\\interface\\itreatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277E7A3-6168-475C-9898-FFEBB548CC76}|HospitalApplication.Service\\HospitalApplication.Service.csproj|solutionrelative:hospitalapplication.service\\interface\\itreatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277E7A3-6168-475C-9898-FFEBB548CC76}|HospitalApplication.Service\\HospitalApplication.Service.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.service\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277E7A3-6168-475C-9898-FFEBB548CC76}|HospitalApplication.Service\\HospitalApplication.Service.csproj|solutionrelative:hospitalapplication.service\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277E7A3-6168-475C-9898-FFEBB548CC76}|HospitalApplication.Service\\HospitalApplication.Service.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.service\\interface\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277E7A3-6168-475C-9898-FFEBB548CC76}|HospitalApplication.Service\\HospitalApplication.Service.csproj|solutionrelative:hospitalapplication.service\\interface\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|solutionrelative:hospitalapplication.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|solutionrelative:hospitalapplication.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|solutionrelative:hospitalapplication.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.repository\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|solutionrelative:hospitalapplication.repository\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.domain\\idenititymodels\\hospitalapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|solutionrelative:hospitalapplication.domain\\idenititymodels\\hospitalapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.domain\\domainmodels\\treatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|solutionrelative:hospitalapplication.domain\\domainmodels\\treatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.domain\\domainmodels\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|solutionrelative:hospitalapplication.domain\\domainmodels\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.domain\\domainmodels\\patientdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|solutionrelative:hospitalapplication.domain\\domainmodels\\patientdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\hospitalapplication\\hospitalapplication.repository\\hospitalapplication.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|solutionrelative:hospitalapplication.repository\\hospitalapplication.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\PatientDepartments\\Create.cshtml",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Views\\PatientDepartments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\PatientDepartments\\Create.cshtml",
+              "RelativeToolTip": "HospitalApplication.Web\\Views\\PatientDepartments\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T22:08:53.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "HospitalApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAawHsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:02:09.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "HospitalApplication.Web\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:55:03.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientDepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Controllers\\PatientDepartmentsController.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Controllers\\PatientDepartmentsController.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Controllers\\PatientDepartmentsController.cs*",
+              "RelativeToolTip": "HospitalApplication.Web\\Controllers\\PatientDepartmentsController.cs*",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:56:28.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Views\\Patients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "HospitalApplication.Web\\Views\\Patients\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T22:06:09.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HospitalApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T22:03:33.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "HospitalApplication.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T22:03:34.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\Patients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Views\\Patients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\Patients\\Edit.cshtml",
+              "RelativeToolTip": "HospitalApplication.Web\\Views\\Patients\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T22:06:21.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Program.cs",
+              "RelativeToolTip": "HospitalApplication.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:36:51.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\Treatments\\Create.cshtml",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Views\\Treatments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\Treatments\\Create.cshtml",
+              "RelativeToolTip": "HospitalApplication.Web\\Views\\Treatments\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T22:06:30.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\Treatments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Views\\Treatments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Views\\Treatments\\Edit.cshtml",
+              "RelativeToolTip": "HospitalApplication.Web\\Views\\Treatments\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T22:06:37.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "HospitalApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowB4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T22:01:39.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "HospitalApplication.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T22:01:37.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "HospitalApplication.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-15T22:00:49.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TreatmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Controllers\\TreatmentsController.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Controllers\\TreatmentsController.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Controllers\\TreatmentsController.cs",
+              "RelativeToolTip": "HospitalApplication.Web\\Controllers\\TreatmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:55:50.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Web\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "HospitalApplication.Web\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:54:30.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Domain\\DomainModels\\Department.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Domain\\DomainModels\\Department.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Domain\\DomainModels\\Department.cs",
+              "RelativeToolTip": "HospitalApplication.Domain\\DomainModels\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:28:08.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250415215348_Models.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250415215348_Models.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\Data\\Migrations\\20250415215348_Models.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250415215348_Models.cs",
+              "RelativeToolTip": "HospitalApplication.Repository\\Data\\Migrations\\20250415215348_Models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:53:48.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "HospitalApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:52:54.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250415215035_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250415215035_Initial.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\Data\\Migrations\\20250415215035_Initial.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250415215035_Initial.cs",
+              "RelativeToolTip": "HospitalApplication.Repository\\Data\\Migrations\\20250415215035_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:50:35.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "HospitalApplication.Repository\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:43:13.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITreatmentService.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Service\\Interface\\ITreatmentService.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Service\\Interface\\ITreatmentService.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Service\\Interface\\ITreatmentService.cs",
+              "RelativeToolTip": "HospitalApplication.Service\\Interface\\ITreatmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:40:22.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HospitalApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:36:19.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPatientDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Service\\Interface\\IPatientDepartmentService.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Service\\Interface\\IPatientDepartmentService.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Service\\Interface\\IPatientDepartmentService.cs",
+              "RelativeToolTip": "HospitalApplication.Service\\Interface\\IPatientDepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:41:24.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Service\\Interface\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Service\\Interface\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Service\\Interface\\IDepartmentService.cs",
+              "RelativeToolTip": "HospitalApplication.Service\\Interface\\IDepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:39:40.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Service\\Interface\\IPatientService.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Service\\Interface\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Service\\Interface\\IPatientService.cs",
+              "RelativeToolTip": "HospitalApplication.Service\\Interface\\IPatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:38:54.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "HospitalApplication.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:38:30.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Domain\\BaseEntity.cs",
+              "RelativeToolTip": "HospitalApplication.Domain\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:38:21.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "HospitalApplication.Repository\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:37:55.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "HospitalApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:36:36.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HospitalApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Domain\\IdenitityModels\\HospitalApplicationUser.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Domain\\IdenitityModels\\HospitalApplicationUser.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Domain\\IdenitityModels\\HospitalApplicationUser.cs",
+              "RelativeToolTip": "HospitalApplication.Domain\\IdenitityModels\\HospitalApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:35:40.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PatientDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Domain\\DomainModels\\PatientDepartment.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Domain\\DomainModels\\PatientDepartment.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Domain\\DomainModels\\PatientDepartment.cs",
+              "RelativeToolTip": "HospitalApplication.Domain\\DomainModels\\PatientDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:28:40.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Domain\\DomainModels\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Domain\\DomainModels\\Patient.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Domain\\DomainModels\\Patient.cs",
+              "RelativeToolTip": "HospitalApplication.Domain\\DomainModels\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:27:16.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Treatment.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Domain\\DomainModels\\Treatment.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Domain\\DomainModels\\Treatment.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Domain\\DomainModels\\Treatment.cs",
+              "RelativeToolTip": "HospitalApplication.Domain\\DomainModels\\Treatment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:29:41.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HospitalApplication.Repository",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\HospitalApplication.Repository.csproj",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\HospitalApplication.Repository.csproj",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\HospitalApplication\\HospitalApplication.Repository\\HospitalApplication.Repository.csproj",
+              "RelativeToolTip": "HospitalApplication.Repository\\HospitalApplication.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T21:34:24.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

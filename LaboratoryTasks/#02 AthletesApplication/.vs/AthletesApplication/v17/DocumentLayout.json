@@ -1,0 +1,542 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.web\\views\\athletes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\athletes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.web\\views\\participations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\participations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.web\\controllers\\participationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\controllers\\participationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.web\\controllers\\competitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\controllers\\competitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|solutionrelative:athletesapplication.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|solutionrelative:athletesapplication.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.service\\interface\\icompetitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\interface\\icompetitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.domain\\athletesapplication.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\athletesapplication.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.repository\\athletesapplication.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|solutionrelative:athletesapplication.repository\\athletesapplication.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.service\\interface\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\interface\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.service\\interface\\iathleteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\interface\\iathleteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.service\\interface\\iparticipationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\interface\\iparticipationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.domain\\domainmodels\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\domainmodels\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.domain\\domainmodels\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\domainmodels\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.web\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.web\\controllers\\athletescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\controllers\\athletescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Data\\Migrations\\20250424070138_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AthletesApplication.Repository\\Data\\Migrations\\20250424070138_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.domain\\identitymodels\\athletesapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\identitymodels\\athletesapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|solutionrelative:athletesapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.domain\\domainmodels\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\domainmodels\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.repository\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|solutionrelative:athletesapplication.repository\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.repository\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|solutionrelative:athletesapplication.repository\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.repository\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|solutionrelative:athletesapplication.repository\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\darso\\source\\repos\\athletesapplication\\athletesapplication.domain\\domainmodels\\participation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\domainmodels\\participation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Views\\Athletes\\Index.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Athletes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Views\\Athletes\\Index.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Athletes\\Index.cshtml",
+              "ViewState": "AQIAADQAAAAANjMzMzP7v0IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T07:26:07.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T07:24:12.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwCIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T07:21:54.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AthletesApplication.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-24T07:21:43.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Views\\Participations\\Create.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Participations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Views\\Participations\\Create.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Participations\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T07:17:44.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "AthletesApplication.Repository\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:16:01.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Program.cs",
+              "RelativeToolTip": "AthletesApplication.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:00:43.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "AthletesApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHAAAACAyMzMzMwZwHsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:21:57.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAthleteService.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Service\\Interface\\IAthleteService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Interface\\IAthleteService.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Service\\Interface\\IAthleteService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Interface\\IAthleteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:10:31.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompetitionsController.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Controllers\\CompetitionsController.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Controllers\\CompetitionsController.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Controllers\\CompetitionsController.cs",
+              "RelativeToolTip": "AthletesApplication.Web\\Controllers\\CompetitionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:04:39.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParticipationsController.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Controllers\\ParticipationsController.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Controllers\\ParticipationsController.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Controllers\\ParticipationsController.cs",
+              "RelativeToolTip": "AthletesApplication.Web\\Controllers\\ParticipationsController.cs",
+              "ViewState": "AQIAACYAAAAA9P////8RwCUAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:06:39.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICompetitionService.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Service\\Interface\\ICompetitionService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Interface\\ICompetitionService.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Service\\Interface\\ICompetitionService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Interface\\ICompetitionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:10:42.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITeamService.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Service\\Interface\\ITeamService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Interface\\ITeamService.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Service\\Interface\\ITeamService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Interface\\ITeamService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:10:50.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "AthletesApplication.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:15:18.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\BaseEntity.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:15:48.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AthletesApplication.Domain",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\AthletesApplication.Domain.csproj",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\AthletesApplication.Domain.csproj",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\AthletesApplication.Domain.csproj",
+              "RelativeToolTip": "AthletesApplication.Domain\\AthletesApplication.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T06:43:49.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IParticipationService.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Service\\Interface\\IParticipationService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Interface\\IParticipationService.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Service\\Interface\\IParticipationService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Interface\\IParticipationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:10:56.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AthletesApplication.Repository",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\AthletesApplication.Repository.csproj",
+              "RelativeDocumentMoniker": "AthletesApplication.Repository\\AthletesApplication.Repository.csproj",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\AthletesApplication.Repository.csproj",
+              "RelativeToolTip": "AthletesApplication.Repository\\AthletesApplication.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T06:49:47.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AthletesController.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Controllers\\AthletesController.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Controllers\\AthletesController.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Controllers\\AthletesController.cs",
+              "RelativeToolTip": "AthletesApplication.Web\\Controllers\\AthletesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:02:31.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250424070138_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Data\\Migrations\\20250424070138_Initial.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Repository\\Data\\Migrations\\20250424070138_Initial.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Data\\Migrations\\20250424070138_Initial.cs",
+              "RelativeToolTip": "AthletesApplication.Repository\\Data\\Migrations\\20250424070138_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:01:38.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Competition.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Competition.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\DomainModels\\Competition.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Competition.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\DomainModels\\Competition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:45:22.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Athlete.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Athlete.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\DomainModels\\Athlete.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Athlete.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\DomainModels\\Athlete.cs",
+              "ViewState": "AQIAAAgAAABAzczMzMwUwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:43:55.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Web\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "AthletesApplication.Web\\Controllers\\TeamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:03:44.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AthletesApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIA7wBIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:52:44.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Team.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\DomainModels\\Team.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Team.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\DomainModels\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:46:12.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AthletesApplicationuser.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\IdentityModels\\AthletesApplicationuser.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\IdentityModels\\AthletesApplicationuser.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\IdentityModels\\AthletesApplicationuser.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\IdentityModels\\AthletesApplicationuser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:48:45.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AthletesApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:52:39.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "AthletesApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:52:34.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "AthletesApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:52:26.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Participation.cs",
+              "DocumentMoniker": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Participation.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\DomainModels\\Participation.cs",
+              "ToolTip": "C:\\Users\\darso\\source\\repos\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Participation.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\DomainModels\\Participation.cs",
+              "ViewState": "AQIAAAUAAAAAAQAAAIAXwA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:47:11.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

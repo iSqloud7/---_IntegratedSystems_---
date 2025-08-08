@@ -1,0 +1,12 @@
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Domain\bin\Debug\net8.0\HospitalApplication.Domain.deps.json
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Domain\bin\Debug\net8.0\HospitalApplication.Domain.dll
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Domain\bin\Debug\net8.0\HospitalApplication.Domain.pdb
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Domain\obj\Debug\net8.0\HospitalApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Domain\obj\Debug\net8.0\HospitalApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Domain\obj\Debug\net8.0\HospitalApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Domain\obj\Debug\net8.0\HospitalApplication.Domain.AssemblyInfo.cs
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Domain\obj\Debug\net8.0\HospitalApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Domain\obj\Debug\net8.0\HospitalApplication.Domain.dll
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Domain\obj\Debug\net8.0\refint\HospitalApplication.Domain.dll
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Domain\obj\Debug\net8.0\HospitalApplication.Domain.pdb
+C:\Users\darso\source\repos\HospitalApplication\HospitalApplication.Domain\obj\Debug\net8.0\ref\HospitalApplication.Domain.dll
