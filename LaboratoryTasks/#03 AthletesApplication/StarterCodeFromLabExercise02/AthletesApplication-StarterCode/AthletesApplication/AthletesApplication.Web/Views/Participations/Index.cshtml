@@ -1,0 +1,48 @@
+﻿@model IEnumerable<AthletesApplication.Domain.DomainModels.Participation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<!--TODO: Add CreateTournament button (Create method in TournamentsController)-->
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Athlete)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Competition)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateRegistered)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Athlete.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Competition.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateRegistered)
+                </td>
+                <td>
+                    <!--TODO: add delete button-->
+
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

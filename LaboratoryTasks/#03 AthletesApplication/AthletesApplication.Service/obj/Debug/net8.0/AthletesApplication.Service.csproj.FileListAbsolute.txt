@@ -1,0 +1,17 @@
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Service.deps.json
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Service.dll
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Service.pdb
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Domain.dll
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Repository.dll
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Domain.pdb
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\bin\Debug\net8.0\AthletesApplication.Repository.pdb
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.csproj.AssemblyReference.cache
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.AssemblyInfoInputs.cache
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.AssemblyInfo.cs
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\Athletes.103A3407.Up2Date
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.dll
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\refint\AthletesApplication.Service.dll
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\AthletesApplication.Service.pdb
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Service\obj\Debug\net8.0\ref\AthletesApplication.Service.dll

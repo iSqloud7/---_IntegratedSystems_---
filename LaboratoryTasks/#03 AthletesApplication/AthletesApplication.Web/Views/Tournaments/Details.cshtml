@@ -1,0 +1,46 @@
+﻿@model AthletesApplication.Domain.DTOs.AthletesInTournamentDTO
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<h4>Tournament</h4>
+
+<!-- TODO: Create Table for Tournament -->
+<!-- Look at the table from any Index page for help -->
+<!-- Iterate throught Model.AthletesInTournament -->
+<!-- Display: Athlete FullName, Athlete JerseyNumber, Athlete DateOfBirth -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tournament Title</th>
+            <th>Tournament Date</th>
+            <th>Num of Athletes</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var athlete in Model.AthletesInTournament)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => athlete.Athlete.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => athlete.Athlete.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => athlete.Athlete.JerseyNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => athlete.Athlete.DateOfBirth)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!--TODO: Display Total Athletes in Tournament-->
+<div>
+    <p>Total Athletes in Tournament: @Model.TotalAthletes</p>
+</div>

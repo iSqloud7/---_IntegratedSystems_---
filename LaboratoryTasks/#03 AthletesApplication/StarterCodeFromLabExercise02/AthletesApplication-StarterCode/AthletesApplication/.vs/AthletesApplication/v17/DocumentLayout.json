@@ -1,0 +1,779 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\controllers\\participationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\controllers\\participationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.service\\interface\\itournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\interface\\itournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.service\\interface\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\interface\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.service\\interface\\icompetitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\interface\\icompetitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.service\\interface\\iathleteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\interface\\iathleteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\participations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\participations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\participations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\participations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\tournaments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\tournaments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.service\\implementation\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\implementation\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.service\\implementation\\participationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\implementation\\participationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.service\\interface\\iparticipationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\interface\\iparticipationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\controllers\\competitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\controllers\\competitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.service\\implementation\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\implementation\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\controllers\\athletescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\controllers\\athletescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.service\\implementation\\competitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\implementation\\competitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.service\\implementation\\athleteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183524E2-7768-4CEC-AF7C-61FB36037CCB}|AthletesApplication.Service\\AthletesApplication.Service.csproj|solutionrelative:athletesapplication.service\\implementation\\athleteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\athletes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\athletes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\athletes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\athletes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_AthletesApplication.Web_b0917405_b78a_4906_b9a6_81e2c9d9701e/True/SqlTable/dbo.Participations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\teams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\teams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|solutionrelative:athletesapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.domain\\domainmodels\\athleteintournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\domainmodels\\athleteintournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.domain\\domainmodels\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\domainmodels\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.domain\\domainmodels\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\domainmodels\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.domain\\domainmodels\\participation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\domainmodels\\participation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.domain\\domainmodels\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\domainmodels\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.domain\\domainmodels\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\domainmodels\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.domain\\identitymodels\\athletesapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\identitymodels\\athletesapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\competitions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\competitions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\teams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\teams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\teams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\teams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\athletes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\athletes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\competitions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\competitions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.web\\views\\competitions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2D8D919-2CC9-40CA-A12A-4DB4DE5F0525}|AthletesApplication.Web\\AthletesApplication.Web.csproj|solutionrelative:athletesapplication.web\\views\\competitions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|solutionrelative:athletesapplication.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|solutionrelative:athletesapplication.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|c:\\users\\sfili\\desktop\\starters\\athletesapplication\\athletesapplication\\athletesapplication.repository\\data\\migrations\\20250502181940_addusertoparticipation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678CEA1-691B-4358-A5DF-C72E5251BE43}|AthletesApplication.Repository\\AthletesApplication.Repository.csproj|solutionrelative:athletesapplication.repository\\data\\migrations\\20250502181940_addusertoparticipation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 44,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITeamService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Interface\\ITeamService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Interface\\ITeamService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Interface\\ITeamService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Interface\\ITeamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:00:12.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAthleteService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Interface\\IAthleteService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Interface\\IAthleteService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Interface\\IAthleteService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Interface\\IAthleteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T07:59:53.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Implementation\\TeamService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Implementation\\TeamService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Implementation\\TeamService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Implementation\\TeamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T07:59:47.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.Participations.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_AthletesApplication.Web_b0917405_b78a_4906_b9a6_81e2c9d9701e/True/SqlTable/dbo.Participations.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_AthletesApplication.Web_b0917405_b78a_4906_b9a6_81e2c9d9701e/True/SqlTable/dbo.Participations.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-03T07:27:47.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Teams\\Details.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Teams\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Teams\\Details.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Teams\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T18:34:59.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Teams\\Index.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Teams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Teams\\Index.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Teams\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T18:34:21.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Tournaments\\Details.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Tournaments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Tournaments\\Details.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Tournaments\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T18:34:14.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TournamentsController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Controllers\\TournamentsController.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Controllers\\TournamentsController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Controllers\\TournamentsController.cs",
+              "RelativeToolTip": "AthletesApplication.Web\\Controllers\\TournamentsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:26:28.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Program.cs",
+              "RelativeToolTip": "AthletesApplication.Web\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:23:40.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TournamentService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Implementation\\TournamentService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Implementation\\TournamentService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Implementation\\TournamentService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Implementation\\TournamentService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:23:18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITournamentService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Interface\\ITournamentService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Interface\\ITournamentService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Interface\\ITournamentService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Interface\\ITournamentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:22:59.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AthletesApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:22:08.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AthleteInTournament.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\AthleteInTournament.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\DomainModels\\AthleteInTournament.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\AthleteInTournament.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\DomainModels\\AthleteInTournament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:21:17.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Tournament.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Tournament.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\DomainModels\\Tournament.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Tournament.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\DomainModels\\Tournament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:20:40.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250502181940_AddUserToParticipation.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Repository\\Data\\Migrations\\20250502181940_AddUserToParticipation.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Repository\\Data\\Migrations\\20250502181940_AddUserToParticipation.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Repository\\Data\\Migrations\\20250502181940_AddUserToParticipation.cs",
+              "RelativeToolTip": "AthletesApplication.Repository\\Data\\Migrations\\20250502181940_AddUserToParticipation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:19:42.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AthletesApplication.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:59:21.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Team.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\DomainModels\\Team.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Team.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\DomainModels\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:02:11.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Competition.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Competition.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\DomainModels\\Competition.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Competition.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\DomainModels\\Competition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:02:08.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Participation.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Participation.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\DomainModels\\Participation.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Participation.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\DomainModels\\Participation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:02:05.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ParticipationService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Implementation\\ParticipationService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Implementation\\ParticipationService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Implementation\\ParticipationService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Implementation\\ParticipationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:01:18.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICompetitionService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Interface\\ICompetitionService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Interface\\ICompetitionService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Interface\\ICompetitionService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Interface\\ICompetitionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:00:55.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IParticipationService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Interface\\IParticipationService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Interface\\IParticipationService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Interface\\IParticipationService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Interface\\IParticipationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:00:33.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Athlete.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Athlete.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\DomainModels\\Athlete.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\Athlete.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\DomainModels\\Athlete.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:57:55.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Competitions\\Index.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Competitions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Competitions\\Index.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Competitions\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T17:55:57.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Participations\\Index.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Participations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Participations\\Index.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Participations\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T17:55:50.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T17:54:04.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Teams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Teams\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Teams\\Edit.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Teams\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T17:53:42.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Teams\\Create.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Teams\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Teams\\Create.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Teams\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T17:52:54.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Athletes\\Create.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Athletes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Athletes\\Create.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Athletes\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T17:51:26.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Athletes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Athletes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Athletes\\Edit.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Athletes\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T17:44:08.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Competitions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Competitions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Competitions\\Edit.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Competitions\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T17:44:01.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Competitions\\Details.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Competitions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Competitions\\Details.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Competitions\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T17:44:00.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Participations\\Create.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Participations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Participations\\Create.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Participations\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T17:42:47.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Athletes\\Index.cshtml",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Views\\Athletes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Views\\Athletes\\Index.cshtml",
+              "RelativeToolTip": "AthletesApplication.Web\\Views\\Athletes\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T17:40:58.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\BaseEntity.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:40:28.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AthletesApplicationuser.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\IdentityModels\\AthletesApplicationuser.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\IdentityModels\\AthletesApplicationuser.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\IdentityModels\\AthletesApplicationuser.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\IdentityModels\\AthletesApplicationuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:40:18.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "AthletesApplication.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:40:01.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "AthletesApplication.Repository\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:39:49.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "AthletesApplication.Web\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv3sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:36:22.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParticipationsController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Controllers\\ParticipationsController.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Controllers\\ParticipationsController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Controllers\\ParticipationsController.cs",
+              "RelativeToolTip": "AthletesApplication.Web\\Controllers\\ParticipationsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:36:16.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompetitionsController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Controllers\\CompetitionsController.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Controllers\\CompetitionsController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Controllers\\CompetitionsController.cs",
+              "RelativeToolTip": "AthletesApplication.Web\\Controllers\\CompetitionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:31:20.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CompetitionService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Implementation\\CompetitionService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Implementation\\CompetitionService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Implementation\\CompetitionService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Implementation\\CompetitionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:30:57.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AthleteService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Implementation\\AthleteService.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Service\\Implementation\\AthleteService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Service\\Implementation\\AthleteService.cs",
+              "RelativeToolTip": "AthletesApplication.Service\\Implementation\\AthleteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:25:03.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AthletesController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Controllers\\AthletesController.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Web\\Controllers\\AthletesController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\AthletesApplication\\AthletesApplication\\AthletesApplication.Web\\Controllers\\AthletesController.cs",
+              "RelativeToolTip": "AthletesApplication.Web\\Controllers\\AthletesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:24:15.925Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 831,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

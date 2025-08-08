@@ -1,0 +1,12 @@
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Domain\bin\Debug\net8.0\AthletesApplication.Domain.deps.json
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Domain\bin\Debug\net8.0\AthletesApplication.Domain.dll
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Domain\bin\Debug\net8.0\AthletesApplication.Domain.pdb
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.AssemblyInfo.cs
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.dll
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\refint\AthletesApplication.Domain.dll
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.pdb
+C:\Users\223260\Downloads\AthletesApplication (1)\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\ref\AthletesApplication.Domain.dll
