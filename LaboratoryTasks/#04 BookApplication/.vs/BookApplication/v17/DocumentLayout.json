@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{896286AF-0297-47C7-A290-E2B685030BB5}|BookApplication.Web\\BookApplication.Web.csproj|c:\\users\\223260\\downloads\\bookapplication (3)\\bookapplication\\bookapplication.web\\views\\books\\displaybooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{896286AF-0297-47C7-A290-E2B685030BB5}|BookApplication.Web\\BookApplication.Web.csproj|solutionrelative:bookapplication.web\\views\\books\\displaybooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FC422A-111A-4AAC-B08C-BFB8DBB9BF2F}|BookApplication.Service\\BookApplication.Service.csproj|c:\\users\\223260\\downloads\\bookapplication (3)\\bookapplication\\bookapplication.service\\implementation\\apidatafetchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40FC422A-111A-4AAC-B08C-BFB8DBB9BF2F}|BookApplication.Service\\BookApplication.Service.csproj|solutionrelative:bookapplication.service\\implementation\\apidatafetchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB89B887-4477-482C-9FB4-ADF9881F5083}|BookApplication.Domain\\BookApplication.Domain.csproj|c:\\users\\223260\\downloads\\bookapplication (3)\\bookapplication\\bookapplication.domain\\domainmodels\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB89B887-4477-482C-9FB4-ADF9881F5083}|BookApplication.Domain\\BookApplication.Domain.csproj|solutionrelative:bookapplication.domain\\domainmodels\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB89B887-4477-482C-9FB4-ADF9881F5083}|BookApplication.Domain\\BookApplication.Domain.csproj|c:\\users\\223260\\downloads\\bookapplication (3)\\bookapplication\\bookapplication.domain\\domainmodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB89B887-4477-482C-9FB4-ADF9881F5083}|BookApplication.Domain\\BookApplication.Domain.csproj|solutionrelative:bookapplication.domain\\domainmodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB89B887-4477-482C-9FB4-ADF9881F5083}|BookApplication.Domain\\BookApplication.Domain.csproj|c:\\users\\223260\\downloads\\bookapplication (3)\\bookapplication\\bookapplication.domain\\domainmodels\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB89B887-4477-482C-9FB4-ADF9881F5083}|BookApplication.Domain\\BookApplication.Domain.csproj|solutionrelative:bookapplication.domain\\domainmodels\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB89B887-4477-482C-9FB4-ADF9881F5083}|BookApplication.Domain\\BookApplication.Domain.csproj|c:\\users\\223260\\downloads\\bookapplication (3)\\bookapplication\\bookapplication.domain\\domainmodels\\chapterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB89B887-4477-482C-9FB4-ADF9881F5083}|BookApplication.Domain\\BookApplication.Domain.csproj|solutionrelative:bookapplication.domain\\domainmodels\\chapterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896286AF-0297-47C7-A290-E2B685030BB5}|BookApplication.Web\\BookApplication.Web.csproj|c:\\users\\223260\\downloads\\bookapplication (3)\\bookapplication\\bookapplication.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896286AF-0297-47C7-A290-E2B685030BB5}|BookApplication.Web\\BookApplication.Web.csproj|solutionrelative:bookapplication.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896286AF-0297-47C7-A290-E2B685030BB5}|BookApplication.Web\\BookApplication.Web.csproj|c:\\users\\223260\\downloads\\bookapplication (3)\\bookapplication\\bookapplication.web\\bookapplication.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{896286AF-0297-47C7-A290-E2B685030BB5}|BookApplication.Web\\BookApplication.Web.csproj|solutionrelative:bookapplication.web\\bookapplication.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896286AF-0297-47C7-A290-E2B685030BB5}|BookApplication.Web\\BookApplication.Web.csproj|c:\\users\\223260\\downloads\\bookapplication (3)\\bookapplication\\bookapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896286AF-0297-47C7-A290-E2B685030BB5}|BookApplication.Web\\BookApplication.Web.csproj|solutionrelative:bookapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Web\\Views\\Books\\DisplayBooks.cshtml",
+              "RelativeDocumentMoniker": "BookApplication.Web\\Views\\Books\\DisplayBooks.cshtml",
+              "ToolTip": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Web\\Views\\Books\\DisplayBooks.cshtml",
+              "RelativeToolTip": "BookApplication.Web\\Views\\Books\\DisplayBooks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T17:23:52.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookApplication.Web",
+              "DocumentMoniker": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Web\\BookApplication.Web.csproj",
+              "RelativeDocumentMoniker": "BookApplication.Web\\BookApplication.Web.csproj",
+              "ToolTip": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Web\\BookApplication.Web.csproj",
+              "RelativeToolTip": "BookApplication.Web\\BookApplication.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T17:18:22.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChapterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Domain\\DomainModels\\ChapterDTO.cs",
+              "RelativeDocumentMoniker": "BookApplication.Domain\\DomainModels\\ChapterDTO.cs",
+              "ToolTip": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Domain\\DomainModels\\ChapterDTO.cs",
+              "RelativeToolTip": "BookApplication.Domain\\DomainModels\\ChapterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:09:46.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Domain\\DomainModels\\Book.cs",
+              "RelativeDocumentMoniker": "BookApplication.Domain\\DomainModels\\Book.cs",
+              "ToolTip": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Domain\\DomainModels\\Book.cs",
+              "RelativeToolTip": "BookApplication.Domain\\DomainModels\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:09:41.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chapter.cs",
+              "DocumentMoniker": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Domain\\DomainModels\\Chapter.cs",
+              "RelativeDocumentMoniker": "BookApplication.Domain\\DomainModels\\Chapter.cs",
+              "ToolTip": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Domain\\DomainModels\\Chapter.cs",
+              "RelativeToolTip": "BookApplication.Domain\\DomainModels\\Chapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:09:38.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Domain\\DomainModels\\BookDTO.cs",
+              "RelativeDocumentMoniker": "BookApplication.Domain\\DomainModels\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Domain\\DomainModels\\BookDTO.cs",
+              "RelativeToolTip": "BookApplication.Domain\\DomainModels\\BookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:07:35.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiDataFetchService.cs",
+              "DocumentMoniker": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Service\\Implementation\\ApiDataFetchService.cs",
+              "RelativeDocumentMoniker": "BookApplication.Service\\Implementation\\ApiDataFetchService.cs",
+              "ToolTip": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Service\\Implementation\\ApiDataFetchService.cs",
+              "RelativeToolTip": "BookApplication.Service\\Implementation\\ApiDataFetchService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:04:46.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Web\\Program.cs",
+              "RelativeDocumentMoniker": "BookApplication.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Web\\Program.cs",
+              "RelativeToolTip": "BookApplication.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:03:11.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Web\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookApplication.Web\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\223260\\Downloads\\BookApplication (3)\\BookApplication\\BookApplication.Web\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookApplication.Web\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAwKgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:01:12.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

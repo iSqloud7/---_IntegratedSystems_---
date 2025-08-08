@@ -1,0 +1,34 @@
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Service.deps.json
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Service.dll
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Service.pdb
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Domain.dll
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Repository.dll
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Domain.pdb
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Repository.pdb
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.csproj.AssemblyReference.cache
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.AssemblyInfoInputs.cache
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.AssemblyInfo.cs
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookAppl.BFB21417.Up2Date
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.dll
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\obj\Debug\net8.0\refint\BookApplication.Service.dll
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.pdb
+C:\Users\darso\source\repos\BookApplication\BookApplication.Service\obj\Debug\net8.0\ref\BookApplication.Service.dll
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Service.deps.json
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Service.dll
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Service.pdb
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Domain.dll
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Repository.dll
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Domain.pdb
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\bin\Debug\net8.0\BookApplication.Repository.pdb
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.csproj.AssemblyReference.cache
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.AssemblyInfoInputs.cache
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.AssemblyInfo.cs
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookAppl.BFB21417.Up2Date
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.dll
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\obj\Debug\net8.0\refint\BookApplication.Service.dll
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\obj\Debug\net8.0\BookApplication.Service.pdb
+C:\Users\223260\Downloads\BookApplication (3)\BookApplication\BookApplication.Service\obj\Debug\net8.0\ref\BookApplication.Service.dll

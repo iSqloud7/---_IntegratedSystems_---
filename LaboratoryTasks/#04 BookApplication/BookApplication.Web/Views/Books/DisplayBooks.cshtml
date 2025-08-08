@@ -1,0 +1,53 @@
+﻿@{
+}
+@model List<BookApplication.Domain.DomainModels.BookDTO>
+
+
+<div class="container">
+
+
+    <div class="row m-5">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        #
+                    </th>
+                    <th>
+                        Customer details
+                    </th>
+                    <th>
+                        Number of products
+                    </th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Model.Count(); i++)
+                {
+                    var item = Model[i];
+                    <tr>
+                        <td>@(i + 1)</td>
+                        <td>
+                            @item.Id
+                        </td>
+                        <td>
+                            @item.Name
+                        </td>
+                        <td>
+                            @item.AuthorFirstName
+                        </td>
+                        <td>
+                            @item.AuthorLastName
+                        </td>
+                        <td>
+                            @item.PublishedYear
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </div>
+</div>
