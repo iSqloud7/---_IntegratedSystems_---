@@ -1,0 +1,36 @@
+﻿@* TODO: If you don't use the default model for the view, change this *@
+@model EventsApplication.Domain.DomainModels.Registration
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Registration</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <!--TODO: Put the action name where the form should be submitted-->
+        <form asp-action="">
+
+            <!--TODO: Put a hidden input for the EventId-->
+            <!--TODO: Put a text input for the PaymentStatus-->
+            <!--TODO: Put a select element for the Attendees. You can use the SelectList from the controller method.
+                For reference, take a look for an example in the other models views
+            -->
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

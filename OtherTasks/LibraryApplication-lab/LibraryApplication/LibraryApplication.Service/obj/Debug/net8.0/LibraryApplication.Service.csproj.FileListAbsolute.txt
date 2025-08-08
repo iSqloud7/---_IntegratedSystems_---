@@ -1,0 +1,17 @@
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\bin\Debug\net8.0\LibraryApplication.Service.deps.json
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\bin\Debug\net8.0\LibraryApplication.Service.dll
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\bin\Debug\net8.0\LibraryApplication.Service.pdb
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\bin\Debug\net8.0\LibraryApplication.Domain.dll
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\bin\Debug\net8.0\LibraryApplication.Repository.dll
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\bin\Debug\net8.0\LibraryApplication.Domain.pdb
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\bin\Debug\net8.0\LibraryApplication.Repository.pdb
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\obj\Debug\net8.0\LibraryApplication.Service.csproj.AssemblyReference.cache
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\obj\Debug\net8.0\LibraryApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\obj\Debug\net8.0\LibraryApplication.Service.AssemblyInfoInputs.cache
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\obj\Debug\net8.0\LibraryApplication.Service.AssemblyInfo.cs
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\obj\Debug\net8.0\LibraryApplication.Service.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\obj\Debug\net8.0\LibraryA.9D1C1860.Up2Date
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\obj\Debug\net8.0\LibraryApplication.Service.dll
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\obj\Debug\net8.0\refint\LibraryApplication.Service.dll
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\obj\Debug\net8.0\LibraryApplication.Service.pdb
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Service\obj\Debug\net8.0\ref\LibraryApplication.Service.dll

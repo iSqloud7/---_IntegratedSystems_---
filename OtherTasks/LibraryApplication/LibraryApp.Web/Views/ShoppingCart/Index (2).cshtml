@@ -1,0 +1,43 @@
+﻿@model LibraryApp.Domain.DTOs.ShoppingCartDTO
+
+@{
+	ViewBag.Title = "title";
+	Layout = "_Layout";
+}
+
+<div class="container">
+	<div class="row">
+		<a class="btn btn-success" asp-action="Order" asp-controller="ShoppingCart">Order</a>
+	</div>
+	<div class="row mt-3">
+		<table class="table">
+			<thead>
+				<tr>
+					<th>Book Title</th>
+					<th>Author</th>
+					<th>Price</th>
+					<th>Quantity</th>
+					<th>Total Price</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach(var book in Model.BooksInShoppingCart)
+				{
+					<tr>
+						<td>@book.Book?.Title</td>
+						<td>@book.Book?.Author</td>
+						<td>@book.Book?.Price.ToString("C")</td>
+						<td>@book.Quantity</td>
+						<td>@(((book.Book?.Price ?? 0) * book.Quantity).ToString("C"))</td>
+					</tr>
+				}
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="4">Total Price:</td>
+					<td>@Model.TotalPrice.ToString("C")</td>
+				</tr>
+			</tfoot>
+		</table>
+	</div>
+</div>

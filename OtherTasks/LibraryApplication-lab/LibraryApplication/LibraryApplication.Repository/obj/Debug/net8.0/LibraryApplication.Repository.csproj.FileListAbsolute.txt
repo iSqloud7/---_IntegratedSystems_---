@@ -1,0 +1,15 @@
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\bin\Debug\net8.0\LibraryApplication.Repository.deps.json
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\bin\Debug\net8.0\LibraryApplication.Repository.dll
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\bin\Debug\net8.0\LibraryApplication.Repository.pdb
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\bin\Debug\net8.0\LibraryApplication.Domain.dll
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\bin\Debug\net8.0\LibraryApplication.Domain.pdb
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.csproj.AssemblyReference.cache
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.AssemblyInfoInputs.cache
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.AssemblyInfo.cs
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryA.3294422F.Up2Date
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.dll
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\refint\LibraryApplication.Repository.dll
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.pdb
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\ref\LibraryApplication.Repository.dll

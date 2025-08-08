@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\PrivateLessonsIS\\LibraryApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA53BFB3-41B5-441D-9742-52816224EAC3}|LibraryApp.Web\\LibraryApp.Web.csproj|c:\\users\\ivan\\desktop\\privatelessonsis\\libraryapplication\\libraryapp.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA53BFB3-41B5-441D-9742-52816224EAC3}|LibraryApp.Web\\LibraryApp.Web.csproj|solutionrelative:libraryapp.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B548DA-D4FF-43B3-8C7E-DA45BD39BDA2}|LibraryApp.Domain\\LibraryApp.Domain.csproj|c:\\users\\ivan\\desktop\\privatelessonsis\\libraryapplication\\libraryapp.domain\\domainmodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B548DA-D4FF-43B3-8C7E-DA45BD39BDA2}|LibraryApp.Domain\\LibraryApp.Domain.csproj|solutionrelative:libraryapp.domain\\domainmodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA53BFB3-41B5-441D-9742-52816224EAC3}|LibraryApp.Web\\LibraryApp.Web.csproj|c:\\users\\ivan\\desktop\\privatelessonsis\\libraryapplication\\libraryapp.web\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA53BFB3-41B5-441D-9742-52816224EAC3}|LibraryApp.Web\\LibraryApp.Web.csproj|solutionrelative:libraryapp.web\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA53BFB3-41B5-441D-9742-52816224EAC3}|LibraryApp.Web\\LibraryApp.Web.csproj|c:\\users\\ivan\\desktop\\privatelessonsis\\libraryapplication\\libraryapp.web\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA53BFB3-41B5-441D-9742-52816224EAC3}|LibraryApp.Web\\LibraryApp.Web.csproj|solutionrelative:libraryapp.web\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA53BFB3-41B5-441D-9742-52816224EAC3}|LibraryApp.Web\\LibraryApp.Web.csproj|c:\\users\\ivan\\desktop\\privatelessonsis\\libraryapplication\\libraryapp.web\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA53BFB3-41B5-441D-9742-52816224EAC3}|LibraryApp.Web\\LibraryApp.Web.csproj|solutionrelative:libraryapp.web\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA53BFB3-41B5-441D-9742-52816224EAC3}|LibraryApp.Web\\LibraryApp.Web.csproj|c:\\users\\ivan\\desktop\\privatelessonsis\\libraryapplication\\libraryapp.web\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA53BFB3-41B5-441D-9742-52816224EAC3}|LibraryApp.Web\\LibraryApp.Web.csproj|solutionrelative:libraryapp.web\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\PrivateLessonsIS\\LibraryApplication\\LibraryApp.Web\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Web\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\PrivateLessonsIS\\LibraryApplication\\LibraryApp.Web\\Controllers\\BooksController.cs*",
+              "RelativeToolTip": "LibraryApp.Web\\Controllers\\BooksController.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAADwvzsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:56:40.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\PrivateLessonsIS\\LibraryApplication\\LibraryApp.Web\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Web\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\PrivateLessonsIS\\LibraryApplication\\LibraryApp.Web\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "LibraryApp.Web\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:56:38.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\PrivateLessonsIS\\LibraryApplication\\LibraryApp.Web\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp.Web\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\PrivateLessonsIS\\LibraryApplication\\LibraryApp.Web\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "LibraryApp.Web\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T22:55:03.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\PrivateLessonsIS\\LibraryApplication\\LibraryApp.Web\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp.Web\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\PrivateLessonsIS\\LibraryApplication\\LibraryApp.Web\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "LibraryApp.Web\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T22:54:59.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\PrivateLessonsIS\\LibraryApplication\\LibraryApp.Web\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp.Web\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\PrivateLessonsIS\\LibraryApplication\\LibraryApp.Web\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "LibraryApp.Web\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T22:54:30.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\PrivateLessonsIS\\LibraryApplication\\LibraryApp.Domain\\DomainModels\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Domain\\DomainModels\\Book.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\PrivateLessonsIS\\LibraryApplication\\LibraryApp.Domain\\DomainModels\\Book.cs",
+              "RelativeToolTip": "LibraryApp.Domain\\DomainModels\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:54:17.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

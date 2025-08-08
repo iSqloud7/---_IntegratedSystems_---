@@ -1,0 +1,12 @@
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Domain\bin\Debug\net8.0\LibraryApplication.Domain.deps.json
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Domain\bin\Debug\net8.0\LibraryApplication.Domain.dll
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Domain\bin\Debug\net8.0\LibraryApplication.Domain.pdb
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.csproj.AssemblyReference.cache
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.AssemblyInfoInputs.cache
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.AssemblyInfo.cs
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.dll
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\refint\LibraryApplication.Domain.dll
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.pdb
+D:\Projects\.Net\LibraryApplication-lab\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\ref\LibraryApplication.Domain.dll

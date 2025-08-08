@@ -1,0 +1,14 @@
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\PrivateLessons IS\LibraryAndBookManagement\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

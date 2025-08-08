@@ -1,0 +1,38 @@
+﻿@model LibraryApplication.Domain.Dtos.LibrarySectionDto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<h4>LibrarySection</h4>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Book Title</th>
+        <th>Book Publication Date</th>
+        <th>Book Number of Samples</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var book in Model.BooksInSection)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => book.Book.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => book.Book.PublicationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => book.Book.NumSamples)
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<div>
+    <p>Total Samples: @Model.TotalSamples</p>
+</div>

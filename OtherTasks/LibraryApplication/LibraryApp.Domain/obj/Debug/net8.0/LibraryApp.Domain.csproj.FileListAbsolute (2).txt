@@ -1,0 +1,12 @@
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Domain\obj\Debug\net8.0\LibraryApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Domain\obj\Debug\net8.0\LibraryApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Domain\obj\Debug\net8.0\LibraryApp.Domain.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Domain\obj\Debug\net8.0\LibraryApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Domain\bin\Debug\net8.0\LibraryApp.Domain.deps.json
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Domain\bin\Debug\net8.0\LibraryApp.Domain.dll
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Domain\bin\Debug\net8.0\LibraryApp.Domain.pdb
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Domain\obj\Debug\net8.0\LibraryApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Domain\obj\Debug\net8.0\LibraryApp.Domain.dll
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Domain\obj\Debug\net8.0\refint\LibraryApp.Domain.dll
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Domain\obj\Debug\net8.0\LibraryApp.Domain.pdb
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Domain\obj\Debug\net8.0\ref\LibraryApp.Domain.dll

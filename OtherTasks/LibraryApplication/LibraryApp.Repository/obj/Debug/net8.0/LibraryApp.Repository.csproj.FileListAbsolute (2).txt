@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\bin\Debug\net8.0\LibraryApp.Repository.deps.json
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\bin\Debug\net8.0\LibraryApp.Repository.dll
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\bin\Debug\net8.0\LibraryApp.Repository.pdb
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\bin\Debug\net8.0\LibraryApp.Domain.dll
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\bin\Debug\net8.0\LibraryApp.Domain.pdb
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\obj\Debug\net8.0\LibraryApp.Repository.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\obj\Debug\net8.0\LibraryApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\obj\Debug\net8.0\LibraryApp.Repository.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\obj\Debug\net8.0\LibraryApp.Repository.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\obj\Debug\net8.0\LibraryApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\obj\Debug\net8.0\LibraryA.F91C3D6F.Up2Date
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\obj\Debug\net8.0\LibraryApp.Repository.dll
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\obj\Debug\net8.0\refint\LibraryApp.Repository.dll
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\obj\Debug\net8.0\LibraryApp.Repository.pdb
+C:\Users\Ivan\Desktop\PrivateLessonsIS\LibraryApplication\LibraryApp.Repository\obj\Debug\net8.0\ref\LibraryApp.Repository.dll

@@ -1,0 +1,61 @@
+﻿@model IEnumerable<LibraryApplication.Domain.DomainModels.BookCategory>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<form asp-action="CreateLibrarySection" method="post">
+    <button type="submit" class="btn btn-success">Create Library Section</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Book)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateAdded)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsFeatured)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Owner)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Book.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateAdded)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsFeatured)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Owner.FullName)
+                </td>
+                <td>
+                    <form asp-action="Delete" asp-route-id="@item.Id" method="post">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
