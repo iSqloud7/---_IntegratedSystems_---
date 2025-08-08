@@ -1,0 +1,41 @@
+@model IEnumerable<CoursesApplication.Domain.DomainModels.StudentOnCourse>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<table id="enrolled-courses" class="table">
+    <thead>
+        <tr>
+            <th>
+                Course Name
+            </th>
+            <th>
+                Credits
+            </th>
+            <th>
+                Semester
+            </th>
+            <th>
+                
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course.Credits)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Semester.Name)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

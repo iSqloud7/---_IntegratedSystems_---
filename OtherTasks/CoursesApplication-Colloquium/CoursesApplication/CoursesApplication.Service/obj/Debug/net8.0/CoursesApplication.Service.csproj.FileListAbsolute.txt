@@ -1,0 +1,107 @@
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Service.deps.json
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Service.dll
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Service.pdb
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Domain.dll
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Repository.dll
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Domain.pdb
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Repository.pdb
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.csproj.AssemblyReference.cache
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.AssemblyInfoInputs.cache
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.AssemblyInfo.cs
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.csproj.CoreCompileInputs.cache
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesA.9D18A633.Up2Date
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.dll
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/refint/CoursesApplication.Service.dll
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.pdb
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/ref/CoursesApplication.Service.dll
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/Microsoft.Extensions.Http.dll
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.dll
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/david.arsov/RiderProjects/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.csproj.AssemblyReference.cache
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.AssemblyInfoInputs.cache
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.AssemblyInfo.cs
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.csproj.CoreCompileInputs.cache
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.dll
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/refint/CoursesApplication.Service.dll
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.pdb
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Service.deps.json
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Service.dll
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Service.pdb
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Domain.dll
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Repository.dll
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Domain.pdb
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Repository.pdb
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/CoursesA.9D18A633.Up2Date
+C:/Users/darso/Downloads/CoursesApplication_1/CoursesApplication/CoursesApplication.Service/obj/Debug/net8.0/ref/CoursesApplication.Service.dll
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Service.deps.json
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Service.dll
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Service.pdb
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Domain.dll
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Repository.dll
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Domain.pdb
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/bin/Debug/net8.0/CoursesApplication.Repository.pdb
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.csproj.AssemblyReference.cache
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.AssemblyInfoInputs.cache
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.AssemblyInfo.cs
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.csproj.CoreCompileInputs.cache
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/obj/Debug/net8.0/CoursesA.9D18A633.Up2Date
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.dll
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/obj/Debug/net8.0/refint/CoursesApplication.Service.dll
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/obj/Debug/net8.0/CoursesApplication.Service.pdb
+/Users/david.arsov/Downloads/CoursesApplication 3/CoursesApplication.Service/obj/Debug/net8.0/ref/CoursesApplication.Service.dll
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Service.deps.json
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Service.dll
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Service.pdb
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Domain.dll
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Repository.dll
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Domain.pdb
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Repository.pdb
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.csproj.AssemblyReference.cache
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.AssemblyInfoInputs.cache
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.AssemblyInfo.cs
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesA.9D18A633.Up2Date
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.dll
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\refint\CoursesApplication.Service.dll
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.pdb
+D:\Projects\.Net\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\ref\CoursesApplication.Service.dll
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Service.deps.json
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Service.dll
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Service.pdb
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Domain.dll
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Repository.dll
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Domain.pdb
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Repository.pdb
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.csproj.AssemblyReference.cache
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.AssemblyInfoInputs.cache
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.AssemblyInfo.cs
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesA.9D18A633.Up2Date
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.dll
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\refint\CoursesApplication.Service.dll
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.pdb
+D:\Projects\.Net\Chas10\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\ref\CoursesApplication.Service.dll
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Service.deps.json
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Service.dll
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Service.pdb
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Domain.dll
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Repository.dll
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Domain.pdb
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\bin\Debug\net8.0\CoursesApplication.Repository.pdb
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesA.9D18A633.Up2Date
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.dll
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\refint\CoursesApplication.Service.dll
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\CoursesApplication.Service.pdb
+C:\Users\Ivan\Desktop\CoursesApplication\CoursesApplication\CoursesApplication.Service\obj\Debug\net8.0\ref\CoursesApplication.Service.dll
